@@ -46,7 +46,7 @@ Then open:
 Create a test account from the React registration screen, or use:
 
 ```text
-username: admin
+Username: nishant
 Password: nishant123
 ```
 
@@ -120,5 +120,6 @@ Browser
 Django ---- MySQL
 Django ---- Redis ---- Celery
 ```
+
 
 

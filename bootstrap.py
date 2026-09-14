@@ -12,9 +12,9 @@ from inventory.models import Warehouse, Stock
 
 User = get_user_model()
 
-username = "admin"
+username = "nishant"
 password = "nishant123"
-email = "admin@example.com"
+email = "nishant@example.com"
 
 user, _ = User.objects.get_or_create(
     username=username,
@@ -62,4 +62,5 @@ for name, sku, desc, price, alert, qty in products:
 
 print("Bootstrap complete")
 print("Login:", username, password)
+
 
