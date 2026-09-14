@@ -1,4 +1,4 @@
-import os
+﻿import os
 import time
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "config.settings")
@@ -13,7 +13,7 @@ from inventory.models import Warehouse, Stock
 User = get_user_model()
 
 username = "admin"
-password = "Admin123!"
+password = "nishant123"
 email = "admin@example.com"
 
 user, _ = User.objects.get_or_create(
@@ -62,3 +62,4 @@ for name, sku, desc, price, alert, qty in products:
 
 print("Bootstrap complete")
 print("Login:", username, password)
+

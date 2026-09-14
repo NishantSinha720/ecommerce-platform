@@ -47,7 +47,7 @@ Create a test account from the React registration screen, or use:
 
 ```text
 username: admin
-password: Admin123!
+Password: nishant123
 ```
 
 The `bootstrap` service creates that account automatically.
@@ -120,4 +120,5 @@ Browser
 Django ---- MySQL
 Django ---- Redis ---- Celery
 ```
+
 
