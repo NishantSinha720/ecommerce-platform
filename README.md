@@ -1,4 +1,8 @@
-# E-Commerce Platform — Full Stack
+﻿# E-Commerce Platform — Full Stack
+
+**Developed by Nishant Sinha**
+
+# E-Commerce Platform â€” Full Stack
 
 A clean rebuild of an Order & Inventory Management Platform.
 
@@ -116,3 +120,4 @@ Browser
 Django ---- MySQL
 Django ---- Redis ---- Celery
 ```
+
